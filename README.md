@@ -1,5 +1,7 @@
 # swapi-bff
 
+![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)
+
 ## Installation
 
 Create an .env file in the root of project like .env-example.
